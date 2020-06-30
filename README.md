@@ -1,0 +1,1 @@
+# xsolla-frontend-school-2020
